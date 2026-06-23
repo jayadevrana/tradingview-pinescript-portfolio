@@ -8,3 +8,5 @@
 * Added Pine Script BB EMA Retest Pattern Indicator project entry.
 
 * Added 20 Pine Script repositories in the fast publishing batch.
+
+* Added 100 Pine Script repositories in the batch 100 publishing run.
