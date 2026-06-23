@@ -12,6 +12,7 @@ Work videos and project demos are available at https://jayadevrana.in/videos.
 | --- | --- | --- | --- | --- |
 | Pine Script SMA Plot Toolbox | Indicator | Educational TradingView Pine Script v6 indicator showing SMA overlays, crossover markers, bar coloring, fills, and plot demos. | https://github.com/jayadevrana/pinescript-sma-plot-toolbox | Pine Script indicator developer, TradingView indicator developer, custom Pine Script developer, market analysis |
 | TradingView SMA Crossover Strategy | Strategy | Educational Pine Script strategy showing fast/slow SMA crossover entries, buy/sell markers, and Strategy Tester basics. | https://github.com/jayadevrana/tradingview-sma-crossover-strategy | Pine Script strategy developer, TradingView strategy developer, backtesting, algo trading |
+| Pine Script BB EMA Retest Pattern Indicator | Indicator / Alert System | TradingView indicator for Bollinger Band and EMA retest patterns with numbered candle labels, RSI and volume filters, and alert conditions. | https://github.com/jayadevrana/pinescript-bb-ema-retest-pattern | Pine Script indicator developer, TradingView alerts developer, custom TradingView indicator, technical analysis |
 
 ## Services
 
