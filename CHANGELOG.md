@@ -6,3 +6,5 @@
 * Added first published project entry: Pine Script SMA Plot Toolbox.
 * Added TradingView SMA Crossover Strategy project entry.
 * Added Pine Script BB EMA Retest Pattern Indicator project entry.
+
+* Added 20 Pine Script repositories in the fast publishing batch.
