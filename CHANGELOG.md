@@ -4,3 +4,4 @@
 
 * Initial public release.
 * Added first published project entry: Pine Script SMA Plot Toolbox.
+* Added TradingView SMA Crossover Strategy project entry.
