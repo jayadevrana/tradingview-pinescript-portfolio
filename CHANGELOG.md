@@ -10,3 +10,5 @@
 * Added 20 Pine Script repositories in the fast publishing batch.
 
 * Added 100 Pine Script repositories in the batch 100 publishing run.
+
+* Added FVG repository index and 13 newly published FVG/SMC repositories.
